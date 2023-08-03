@@ -12,7 +12,7 @@ Expense Tracker is a Python script that helps you track your expenses and manage
 - **Easy Expense Entry:** Input expense details, including item name, category, and price, with a simple and intuitive interface.
 - **Expense Categorization:** Predefined categories (FOOD, HOME, WORK, FUN, MISC) to classify each expense for better organization.
 - **Budget Monitoring:** Track your total expenses and remaining budget against a predefined monthly budget.
-- **Data Persistence:** The expenses data is stored in a CSV file, making it easy to access and analyze your spending history.
+- **Data Persistence:** The expense data is stored in a CSV file, making it easy to access and analyze your spending history.
 
 ## How to Use
 
@@ -80,7 +80,6 @@ Contributions to the project are welcome! If you find any bugs or have ideas for
 
 ## About the Author
 
-This project was developed by [Your Name](https://github.com/your-username), an aspiring engineer and coding enthusiast passionate about creating solutions that simplify everyday tasks, especially in managing personal finances.
+This project was developed by uyah anthony (https://github.com/dretee), an aspiring engineer and coding enthusiast passionate about creating solutions that simplify everyday tasks, especially in managing personal finances.
 
 ---
-Please replace "your-username" and "Your Name" with your actual GitHub username and your name. Additionally, customize the repository URL and any other relevant details to accurately represent your project. This Expense Tracker project showcases your ability to create practical tools for personal finance management, making it a valuable addition to your portfolio.
